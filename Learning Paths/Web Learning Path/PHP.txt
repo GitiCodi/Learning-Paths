@@ -1,0 +1,52 @@
+PHP
+├── Basic Concepts
+│   ├── Variables and Data Types
+│   ├── Operators
+│   ├── Control Structures (if statements, loops)
+│   ├── Functions
+│   └── Arrays
+├── Object-Oriented Programming (OOP)
+│   ├── Classes and Objects
+│   ├── Inheritance
+│   ├── Polymorphism
+│   ├── Encapsulation
+│   └── Abstraction
+├── Web Development with PHP
+│   ├── Introduction to Web Development
+│   ├── HTTP and URL Handling
+│   ├── Forms Handling
+│   ├── Cookies and Sessions
+│   ├── File Uploads
+│   └── Security Practices
+├── Database Access
+│   ├── MySQLi (MySQL Improved)
+│   ├── PDO (PHP Data Objects)
+│   └── Working with Databases
+├── PHP Frameworks
+│   ├── Laravel
+│   ├── Symfony
+│   ├── CodeIgniter
+│   └── Yii
+├── Content Management Systems (CMS)
+│   ├── WordPress
+│   ├── Joomla
+│   └── Drupal
+├── API Development
+│   ├── RESTful APIs
+│   ├── SOAP
+│   └── JSON Web Tokens (JWT)
+├── Templating Engines
+│   ├── Smarty
+│   ├── Twig
+│   └── Blade (Laravel)
+├── Security Best Practices
+│   ├── Data Validation and Sanitization
+│   ├── SQL Injection Prevention
+│   ├── Cross-Site Scripting (XSS) Prevention
+│   └── Authentication and Authorization
+└── Projects and Practice
+    ├── Building Web Applications
+    ├── CMS Development
+    ├── RESTful API Development
+    ├── E-commerce Websites
+    └── Open Source Contributions

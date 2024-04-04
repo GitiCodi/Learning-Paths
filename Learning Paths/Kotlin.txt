@@ -1,0 +1,43 @@
+Kotlin
+├── Basic Concepts
+│   ├── Variables and Data Types
+│   ├── Operators
+│   ├── Control Structures (if statements, loops)
+│   ├── Functions
+│   └── Collections
+├── Object-Oriented Programming (OOP)
+│   ├── Classes and Objects
+│   ├── Inheritance
+│   ├── Polymorphism
+│   ├── Encapsulation
+│   └── Abstraction
+├── Null Safety
+│   ├── Nullable Types
+│   ├── Safe Calls
+│   └── Elvis Operator
+├── Functional Programming
+│   ├── Lambdas
+│   ├── Higher-Order Functions
+│   └── Functional Operators (map, filter, reduce)
+├── Coroutines
+│   ├── Basics of Coroutines
+│   ├── Asynchronous Programming
+│   └── Concurrency
+├── Extension Functions
+│   ├── Defining Extension Functions
+│   └── Using Extension Functions
+├── Kotlin Standard Library
+│   ├── Kotlin Collections
+│   ├── String Manipulation
+│   └── File I/O
+├── Android Development with Kotlin
+│   ├── Introduction to Android Development
+│   ├── Building User Interfaces (XML, ViewBinding)
+│   ├── Activity and Fragment Lifecycle
+│   ├── RecyclerView and Adapter Pattern
+│   └── Retrofit and Room Database
+└── Projects and Practice
+    ├── Console Applications
+    ├── Android Applications
+    ├── Backend Development with Spring Boot or Ktor
+    └── Open Source Contributions

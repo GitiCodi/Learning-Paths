@@ -1,0 +1,57 @@
+JavaScript
+├── Basic Concepts
+│   ├── Variables and Data Types
+│   ├── Operators
+│   ├── Control Structures (if statements, loops)
+│   ├── Functions
+│   └── Arrays and Objects
+├── DOM Manipulation
+│   ├── Selecting Elements
+│   ├── Modifying Elements
+│   ├── Creating and Deleting Elements
+│   ├── Event Handling
+│   └── Traversing the DOM
+├── Asynchronous JavaScript
+│   ├── Callbacks
+│   ├── Promises
+│   ├── Async/Await
+│   └── Fetch API
+├── ES6+ Features
+│   ├── Arrow Functions
+│   ├── Template Literals
+│   ├── Destructuring
+│   ├── Spread and Rest Operators
+│   ├── Classes
+│   ├── Modules
+│   └── let and const
+├── Functional Programming
+│   ├── Higher-Order Functions
+│   ├── Map, Filter, and Reduce
+│   ├── Closures
+│   └── Pure Functions
+├── Error Handling
+│   ├── try...catch
+│   ├── Error Objects
+│   └── Custom Error Handling
+├── Browser APIs
+│   ├── Local Storage
+│   ├── Fetch API
+│   ├── Geolocation API
+│   └── Web Storage
+├── Frontend Frameworks/Libraries
+│   ├── React
+│   ├── Angular
+│   ├── Vue.js
+│   └── jQuery
+├── Backend Development
+│   ├── Node.js
+│   ├── Express.js
+│   ├── RESTful APIs
+│   └── Authentication and Authorization
+└── Projects and Practice
+    ├── DOM Manipulation Projects
+    ├── Asynchronous JavaScript Projects
+    ├── ES6+ Feature Projects
+    ├── Frontend Framework Projects
+    ├── Full Stack Projects
+    └── Open Source Contributions

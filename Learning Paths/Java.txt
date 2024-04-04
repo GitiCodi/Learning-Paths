@@ -1,0 +1,51 @@
+Java
+├── Basic Concepts
+│   ├── Variables and Data Types
+│   ├── Operators
+│   ├── Control Structures (if statements, loops)
+│   ├── Methods and Functions
+│   └── Arrays and Collections
+├── Object-Oriented Programming (OOP)
+│   ├── Classes and Objects
+│   ├── Inheritance
+│   ├── Polymorphism
+│   ├── Encapsulation
+│   └── Abstraction
+├── Java Standard Library
+│   ├── Input and Output (I/O) Streams
+│   ├── Networking
+│   ├── Concurrency (Threads)
+│   ├── File Handling
+│   └── Collections Framework
+├── Exception Handling
+│   ├── try-catch-finally Blocks
+│   ├── Custom Exceptions
+│   └── Exception Propagation
+├── Generics
+│   ├── Introduction to Generics
+│   ├── Generic Classes
+│   └── Generic Methods
+├── JavaFX (Optional for GUI Development)
+│   ├── Introduction to JavaFX
+│   ├── UI Components and Layouts
+│   └── Event Handling
+├── Database Access
+│   ├── JDBC (Java Database Connectivity)
+│   ├── ORM (Object-Relational Mapping) Frameworks like Hibernate
+│   └── Working with Databases
+├── Web Development with Java
+│   ├── Servlets
+│   ├── JavaServer Pages (JSP)
+│   ├── Spring Framework
+│   └── RESTful Web Services
+├── Java EE (Enterprise Edition) Components
+│   ├── Enterprise JavaBeans (EJB)
+│   ├── Java Persistence API (JPA)
+│   ├── Java Message Service (JMS)
+│   └── Java EE Security
+└── Projects and Practice
+    ├── Console Applications
+    ├── GUI Applications (JavaFX)
+    ├── Web Applications
+    ├── Database Applications
+    └── Enterprise Applications (Java EE)

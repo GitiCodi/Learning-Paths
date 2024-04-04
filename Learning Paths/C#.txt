@@ -1,0 +1,52 @@
+C#
+├── Basic Concepts
+│   ├── Variables and Data Types
+│   ├── Operators
+│   ├── Control Structures (if statements, loops)
+│   ├── Functions and Methods
+│   └── Arrays and Collections
+├── Object-Oriented Programming (OOP)
+│   ├── Classes and Objects
+│   ├── Inheritance
+│   ├── Polymorphism
+│   ├── Encapsulation
+│   └── Abstraction
+├── .NET Framework/.NET Core
+│   ├── Introduction to .NET Framework/.NET Core
+│   ├── Common Language Runtime (CLR)
+│   ├── Assemblies and Namespaces
+│   └── Common Type System (CTS)
+├── Exception Handling
+│   ├── try-catch-finally Blocks
+│   ├── Custom Exceptions
+│   └── Exception Filters
+├── LINQ (Language Integrated Query)
+│   ├── LINQ to Objects
+│   ├── LINQ to SQL
+│   ├── LINQ to XML
+│   └── LINQ to Entities
+├── File I/O and Serialization
+│   ├── File Handling (StreamReader/StreamWriter)
+│   ├── Serialization and Deserialization
+│   └── Working with Streams
+├── Multithreading and Asynchronous Programming
+│   ├── Threads and Thread Pool
+│   ├── Tasks and Task Parallel Library (TPL)
+│   ├── Async/Await
+│   └── Synchronization Constructs
+├── Web Development with ASP.NET
+│   ├── Introduction to ASP.NET
+│   ├── ASP.NET Web Forms
+│   ├── ASP.NET MVC
+│   └── ASP.NET Core
+├── Database Access
+│   ├── ADO.NET
+│   ├── Entity Framework (EF)
+│   ├── Dapper
+│   └── LINQ to SQL
+└── Projects and Practice
+    ├── Console Applications
+    ├── Desktop Applications (Windows Forms, WPF)
+    ├── Web Applications
+    ├── Web API Development
+    └── Full Stack Projects

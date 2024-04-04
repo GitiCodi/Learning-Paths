@@ -1,0 +1,47 @@
+Python
+├── Basic Concepts
+│   ├── Variables and Data Types
+│   ├── Operators
+│   ├── Control Structures
+│   ├── Functions
+│   └── Lists, Tuples, and Dictionaries
+├── Object-Oriented Programming (OOP)
+│   ├── Classes and Objects
+│   ├── Inheritance
+│   ├── Polymorphism
+│   ├── Encapsulation
+│   └── Abstraction
+├── Libraries and Frameworks
+│   ├── NumPy (Numerical Computing)
+│   ├── pandas (Data Analysis)
+│   ├── Matplotlib and Seaborn (Data Visualization)
+│   ├── scikit-learn (Machine Learning)
+│   ├── TensorFlow or PyTorch (Deep Learning)
+│   └── Flask or Django (Web Development)
+├── File Handling and Data Processing
+│   ├── File Input/Output
+│   ├── CSV and JSON Handling
+│   ├── Regular Expressions
+│   └── Data Cleaning and Manipulation
+├── Functional Programming
+│   ├── Lambda Functions
+│   ├── Map, Filter, and Reduce
+│   └── List Comprehensions
+├── Concurrency and Parallelism
+│   ├── Threading
+│   ├── Multiprocessing
+│   └── Asyncio
+├── Web Scraping and APIs
+│   ├── Requests
+│   ├── BeautifulSoup
+│   └── Using RESTful APIs
+├── Testing and Debugging
+│   ├── Unit Testing
+│   ├── Debugging Techniques
+│   └── Test-Driven Development (TDD)
+└── Projects and Practice
+    ├── Small Scripts and Programs
+    ├── Data Analysis Projects
+    ├── Machine Learning Projects
+    ├── Web Development Projects
+    └── Automation Projects

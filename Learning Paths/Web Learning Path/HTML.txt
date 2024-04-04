@@ -1,0 +1,48 @@
+HTML
+├── Basic Concepts
+│   ├── Structure of an HTML Document
+│   ├── Semantic HTML
+│   ├── Text Formatting
+│   ├── Links and Anchors
+│   └── Images and Multimedia
+├── HTML5 Features
+│   ├── New Structural Elements (header, footer, nav, section, article, aside)
+│   ├── Form Enhancements (new input types, form validation)
+│   ├── Audio and Video Elements
+│   ├── Canvas
+│   ├── SVG (Scalable Vector Graphics)
+│   └── Geolocation
+├── Accessibility
+│   ├── Semantic Markup for Accessibility
+│   ├── ARIA (Accessible Rich Internet Applications) Roles and Attributes
+│   └── Testing for Accessibility
+├── Forms and Input Controls
+│   ├── Form Elements (input, textarea, select, button)
+│   ├── Form Structure and Attributes
+│   └── Form Styling and Validation
+├── Multimedia Integration
+│   ├── Audio and Video Elements
+│   ├── Embedding External Content (YouTube, Vimeo, etc.)
+│   └── Responsive Images
+├── Responsive Design
+│   ├── Viewport Meta Tag
+│   ├── Media Queries
+│   └── Responsive Images
+├── SEO (Search Engine Optimization)
+│   ├── Semantic Markup
+│   ├── Meta Tags
+│   └── Structured Data Markup (JSON-LD, microdata, RDFa)
+├── HTML Email
+│   ├── Tables for Layout
+│   ├── Inline CSS
+│   └── Email-Specific Tags and Attributes
+├── Web Components
+│   ├── Custom Elements
+│   ├── Shadow DOM
+│   └── HTML Templates
+└── Projects and Practice
+    ├── Building Web Pages and Layouts
+    ├── Creating Forms and Input Controls
+    ├── Integrating Multimedia Content
+    ├── Designing Responsive Websites
+    └── Implementing Web Components

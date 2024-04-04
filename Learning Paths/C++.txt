@@ -1,0 +1,43 @@
+C++
+├── Basic Concepts
+│   ├── Variables and Data Types
+│   ├── Operators
+│   ├── Control Structures
+│   ├── Functions
+│   └── Arrays and Pointers
+├── Object-Oriented Programming (OOP)
+│   ├── Classes and Objects
+│   ├── Inheritance
+│   ├── Polymorphism
+│   ├── Encapsulation
+│   └── Abstraction
+├── Standard Template Library (STL)
+│   ├── Containers
+│   │   ├── Vectors
+│   │   ├── Lists
+│   │   ├── Maps
+│   │   └── Sets
+│   └── Algorithms
+│       ├── Sorting
+│       ├── Searching
+│       ├── Iterators
+│       └── Generic Algorithms
+├── Memory Management
+│   ├── Stack vs. Heap
+│   ├── Dynamic Memory Allocation (new/delete)
+│   └── Smart Pointers
+├── File Handling
+│   ├── File Input/Output Streams
+│   ├── Reading and Writing Files
+│   └── Error Handling
+├── Advanced Topics
+│   ├── Templates
+│   ├── Exception Handling
+│   ├── Multithreading
+│   ├── Networking (Boost.Asio)
+│   └── C++11/14/17 Features
+└── Projects and Practice
+    ├── Small Programs
+    ├── Data Structures (Linked Lists, Trees, Graphs)
+    ├── Algorithms (Sorting, Searching)
+    └── Larger Projects (e.g., Game Development, System Software)

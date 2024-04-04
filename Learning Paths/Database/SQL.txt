@@ -1,0 +1,55 @@
+SQL (Structured Query Language)
+├── Basic Concepts
+│   ├── Introduction to Databases
+│   ├── SQL Syntax
+│   ├── Data Types
+│   ├── Creating and Managing Tables
+│   ├── Inserting, Updating, and Deleting Data
+│   └── Retrieving Data with SELECT
+├── Advanced Queries
+│   ├── Filtering Data with WHERE
+│   ├── Sorting Data with ORDER BY
+│   ├── Joining Tables (INNER JOIN, LEFT JOIN, RIGHT JOIN)
+│   ├── Aggregating Data with GROUP BY
+│   └── Subqueries
+├── Data Manipulation Language (DML)
+│   ├── INSERT INTO
+│   ├── UPDATE
+│   ├── DELETE FROM
+│   └── MERGE (UPSERT)
+├── Data Definition Language (DDL)
+│   ├── CREATE TABLE
+│   ├── ALTER TABLE
+│   ├── DROP TABLE
+│   └── CREATE INDEX
+├── Constraints
+│   ├── Primary Key
+│   ├── Foreign Key
+│   ├── Unique
+│   ├── Not Null
+│   └── Check
+├── Views and Indexes
+│   ├── Creating Views
+│   ├── Indexes (Clustered and Non-Clustered)
+│   └── Optimizing Queries
+├── Transactions and Locking
+│   ├── ACID Properties
+│   ├── Transactions (BEGIN TRANSACTION, COMMIT, ROLLBACK)
+│   └── Locking Mechanisms
+├── Stored Procedures and Functions
+│   ├── Creating Stored Procedures
+│   ├── Creating Functions
+│   └── Difference between Procedures and Functions
+├── Triggers
+│   ├── Creating Triggers
+│   └── Types of Triggers (BEFORE, AFTER)
+├── Data Warehousing and OLAP
+│   ├── Introduction to Data Warehousing
+│   ├── OLAP (Online Analytical Processing)
+│   └── Star and Snowflake Schema
+└── Projects and Practice
+    ├── Query Optimization
+    ├── Database Design and Implementation
+    ├── Data Analysis and Reporting
+    ├── Stored Procedure Development
+    └── Database Administration Tasks

@@ -1,0 +1,37 @@
+CSS
+├── Basic Concepts
+│   ├── Syntax and Selectors
+│   ├── Colors and Backgrounds
+│   ├── Typography
+│   ├── Box Model
+│   └── Display and Positioning
+├── Responsive Web Design
+│   ├── Media Queries
+│   ├── Flexbox
+│   └── CSS Grid
+├── Advanced Styling Techniques
+│   ├── Transitions
+│   ├── Animations
+│   ├── Transformations
+│   └── Pseudo-classes and Pseudo-elements
+├── Preprocessors
+│   ├── Sass (Syntactically Awesome Stylesheets)
+│   ├── Less
+│   └── Stylus
+├── CSS Frameworks
+│   ├── Bootstrap
+│   ├── Foundation
+│   └── Materialize CSS
+├── CSS Methodologies
+│   ├── BEM (Block Element Modifier)
+│   ├── SMACSS (Scalable and Modular Architecture for CSS)
+│   └── OOCSS (Object-Oriented CSS)
+├── CSS-in-JS
+│   ├── Styled-components
+│   ├── Emotion
+│   └── CSS Modules
+└── Projects and Practice
+    ├── Building Layouts and UI Components
+    ├── Responsive Websites
+    ├── CSS Animations and Effects
+    └── Custom Styling and Design Challenges
